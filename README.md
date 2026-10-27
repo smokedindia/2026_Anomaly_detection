@@ -1,4 +1,4 @@
-# **EE 488C AI Convergence Capstone Design : Anomaly Detection**
+# **AIS 40006 AI Convergence Capstone Design : Anomaly Detection**
 ## **Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring (DCASE 2020 baseline)**
 
 **Description**
