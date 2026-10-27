@@ -15,6 +15,8 @@ The main challenge of this task is to detect unknown anomalous sounds under the 
 The data used for this task comprises part of **ToyADMOS** and the **MIMII dataset** consisting of the normal/anomalous operating sounds of six machine types. Each recording is a single-channel 10-sec length audio that includes both a target machine's operating sound and environmental noise. There are six machine types: `ToyCar`, `ToyConveyor`, `Fan`, `Pump`, `Slider`, and `Valve`, but in this example, we only use `valve` dataset.
 ![Dataset](image/Dataset.png)
 
+As noted in Classum, we provide the link for downloading dataset [here](https://drive.google.com/drive/folders/1d9zCW6tbr_nJQCf-CG2kOLILXy3LKpWP).
+
 
 <br>
 <br>
